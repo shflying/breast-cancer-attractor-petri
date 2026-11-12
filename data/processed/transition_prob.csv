@@ -1,0 +1,38 @@
+state,arm,n,p_pcr,p_residual
+High_High,Paclitaxel,9,0.1111111111111111,0.8888888888888888
+High_High,Paclitaxel + AMG 386,5,0.0,1.0
+High_Low,Paclitaxel,12,0.25,0.75
+High_Low,Paclitaxel + ABT 888 + Carboplatin,6,0.3333333333333333,0.6666666666666667
+High_Low,Paclitaxel + AMG 386,12,0.5,0.5
+High_Low,Paclitaxel + Ganetespib,6,0.5,0.5
+High_Low,Paclitaxel + Ganitumab,7,0.14285714285714285,0.8571428571428572
+High_Low,Paclitaxel + MK-2206,7,0.14285714285714285,0.8571428571428572
+High_Low,Paclitaxel + Pembrolizumab,9,0.6666666666666666,0.33333333333333337
+High_Mid,Paclitaxel,7,0.42857142857142855,0.5714285714285714
+High_Mid,Paclitaxel + Ganetespib,6,0.0,1.0
+High_Mid,Paclitaxel + Ganitumab,6,0.3333333333333333,0.6666666666666667
+High_Mid,Paclitaxel + Pembrolizumab,5,0.6,0.4
+Low_High,Paclitaxel,18,0.0,1.0
+Low_High,Paclitaxel + AMG 386,8,0.0,1.0
+Low_High,Paclitaxel + Ganetespib,7,0.14285714285714285,0.8571428571428572
+Low_High,Paclitaxel + Ganitumab,10,0.0,1.0
+Low_High,Paclitaxel + MK-2206,7,0.14285714285714285,0.8571428571428572
+Low_High,Paclitaxel + Pembrolizumab,6,0.0,1.0
+Low_Low,Paclitaxel,6,0.16666666666666666,0.8333333333333334
+Low_Low,Paclitaxel + Ganitumab,6,0.16666666666666666,0.8333333333333334
+Low_Mid,Paclitaxel,12,0.08333333333333333,0.9166666666666666
+Low_Mid,Paclitaxel + ABT 888 + Carboplatin,8,0.0,1.0
+Low_Mid,Paclitaxel + AMG 386,7,0.0,1.0
+Low_Mid,Paclitaxel + Ganitumab,8,0.0,1.0
+Mid_High,Paclitaxel,12,0.16666666666666666,0.8333333333333334
+Mid_High,Paclitaxel + AMG 386,7,0.0,1.0
+Mid_High,Paclitaxel + Ganetespib,5,0.0,1.0
+Mid_High,Paclitaxel + Ganitumab,9,0.1111111111111111,0.8888888888888888
+Mid_Low,Paclitaxel,9,0.3333333333333333,0.6666666666666667
+Mid_Low,Paclitaxel + Ganetespib,7,0.14285714285714285,0.8571428571428572
+Mid_Low,Paclitaxel + Neratinib,5,0.2,0.8
+Mid_Mid,Paclitaxel,9,0.0,1.0
+Mid_Mid,Paclitaxel + AMG 386,13,0.23076923076923078,0.7692307692307692
+Mid_Mid,Paclitaxel + Ganetespib,8,0.0,1.0
+Mid_Mid,Paclitaxel + Ganitumab,5,0.2,0.8
+Mid_Mid,Paclitaxel + Pembrolizumab,6,0.0,1.0

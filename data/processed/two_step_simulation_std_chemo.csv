@@ -1,0 +1,501 @@
+initial_state,arm,pcr_prob_step1,next_immune
+High_Mid,Paclitaxel + Ganitumab,0.3333333333333333,Low
+Low_Low,Paclitaxel + Ganitumab,0.1666666666666666,Low
+Low_High,Paclitaxel + Pembrolizumab,0.0,Low
+Low_Low,Paclitaxel + Ganetespib,,Low
+Low_High,Paclitaxel + MK-2206,0.1428571428571428,Low
+High_Mid,Paclitaxel + MK-2206,,Low
+High_Mid,Paclitaxel + Ganitumab,0.3333333333333333,Mid
+Mid_Mid,Paclitaxel + MK-2206,,Low
+High_Low,Paclitaxel,0.25,Mid
+Mid_Mid,Paclitaxel + Neratinib,,Low
+Low_High,Paclitaxel + Ganetespib,0.1428571428571428,Mid
+High_Low,Paclitaxel + ABT 888 + Carboplatin,0.3333333333333333,High
+Low_Low,Paclitaxel,0.1666666666666666,Low
+High_Mid,Paclitaxel,0.4285714285714285,High
+Mid_Mid,Paclitaxel + AMG 386,0.2307692307692307,Low
+Low_Low,Paclitaxel + AMG 386,,Mid
+High_Mid,Paclitaxel + Pembrolizumab,0.6,Mid
+Low_High,Paclitaxel + MK-2206,0.1428571428571428,Low
+Mid_Mid,Paclitaxel + Neratinib,,High
+Mid_Mid,Paclitaxel + Ganetespib,0.0,Low
+Mid_Mid,Paclitaxel + AMG 386,0.2307692307692307,Low
+Mid_Mid,Paclitaxel + MK-2206,,High
+High_Mid,Paclitaxel,0.4285714285714285,High
+Low_Low,Paclitaxel + Neratinib,,Mid
+Low_Low,Paclitaxel + Neratinib,,Low
+High_Mid,Paclitaxel + Ganetespib,0.0,Mid
+High_Low,Paclitaxel + Ganitumab,0.1428571428571428,High
+High_Low,Paclitaxel,0.25,High
+High_Low,Paclitaxel + Ganetespib,0.5,Low
+Low_High,Paclitaxel + ABT 888 + Carboplatin,,Mid
+Low_High,Paclitaxel + ABT 888 + Carboplatin,,Mid
+Low_Low,Paclitaxel + AMG 386,,Low
+High_Low,Paclitaxel + Ganetespib,0.5,High
+High_Mid,Paclitaxel + AMG 386,,Low
+Low_Low,Paclitaxel + ABT 888 + Carboplatin,,Mid
+Low_High,Paclitaxel + ABT 888 + Carboplatin,,Mid
+Low_Low,Paclitaxel + Pembrolizumab,,Mid
+High_Low,Paclitaxel + Ganitumab,0.1428571428571428,Mid
+Low_High,Paclitaxel,0.0,Mid
+Mid_Mid,Paclitaxel + AMG 386,0.2307692307692307,Low
+Low_High,Paclitaxel + Pembrolizumab,0.0,Mid
+High_Low,Paclitaxel + Ganetespib,0.5,Mid
+High_Mid,Paclitaxel + MK-2206,,Low
+Low_Low,Paclitaxel + Pembrolizumab,,Mid
+High_Mid,Paclitaxel + Ganitumab,0.3333333333333333,Low
+Low_High,Paclitaxel + ABT 888 + Carboplatin,,Low
+Mid_Mid,Paclitaxel + AMG 386,0.2307692307692307,High
+High_Low,Paclitaxel + Ganitumab,0.1428571428571428,High
+High_Mid,Paclitaxel + Ganetespib,0.0,Low
+Low_High,Paclitaxel + Neratinib,,Mid
+High_Mid,Paclitaxel,0.4285714285714285,Mid
+High_Low,Paclitaxel,0.25,Low
+High_Low,Paclitaxel + Ganetespib,0.5,Mid
+Low_High,Paclitaxel + Pembrolizumab,0.0,Low
+Low_High,Paclitaxel,0.0,Mid
+High_Low,Paclitaxel + ABT 888 + Carboplatin,0.3333333333333333,Low
+Low_High,Paclitaxel + MK-2206,0.1428571428571428,Low
+High_Low,Paclitaxel + Ganetespib,0.5,Mid
+High_Low,Paclitaxel + AMG 386,0.5,High
+Mid_Mid,Paclitaxel + ABT 888 + Carboplatin,,Low
+High_Low,Paclitaxel + Neratinib,,Low
+High_Low,Paclitaxel + AMG 386,0.5,Mid
+Low_Low,Paclitaxel + Neratinib,,Mid
+Low_High,Paclitaxel + MK-2206,0.1428571428571428,Low
+High_Mid,Paclitaxel + AMG 386,,High
+High_Mid,Paclitaxel + Pembrolizumab,0.6,High
+Low_High,Paclitaxel,0.0,Mid
+Low_Low,Paclitaxel + Ganetespib,,Mid
+Low_High,Paclitaxel + Pembrolizumab,0.0,Low
+High_Low,Paclitaxel,0.25,Mid
+Low_Low,Paclitaxel + ABT 888 + Carboplatin,,Mid
+Low_High,Paclitaxel + Ganetespib,0.1428571428571428,Low
+Low_High,Paclitaxel + Pembrolizumab,0.0,Low
+High_Mid,Paclitaxel,0.4285714285714285,Mid
+Mid_Mid,Paclitaxel + Neratinib,,Low
+High_Mid,Paclitaxel,0.4285714285714285,Low
+Mid_Mid,Paclitaxel + ABT 888 + Carboplatin,,Low
+Mid_Mid,Paclitaxel + Neratinib,,Mid
+High_Mid,Paclitaxel,0.4285714285714285,Low
+High_Mid,Paclitaxel + Ganitumab,0.3333333333333333,High
+Low_High,Paclitaxel + Pembrolizumab,0.0,Low
+Low_High,Paclitaxel + ABT 888 + Carboplatin,,Mid
+Low_High,Paclitaxel + Ganetespib,0.1428571428571428,Mid
+High_Low,Paclitaxel + Neratinib,,High
+High_Low,Paclitaxel + Neratinib,,High
+High_Mid,Paclitaxel + MK-2206,,Low
+High_Low,Paclitaxel + ABT 888 + Carboplatin,0.3333333333333333,High
+Mid_Mid,Paclitaxel + Neratinib,,Low
+Mid_Mid,Paclitaxel + MK-2206,,Low
+Low_Low,Paclitaxel,0.1666666666666666,Low
+High_Mid,Paclitaxel,0.4285714285714285,Mid
+High_Mid,Paclitaxel + Neratinib,,Mid
+Low_High,Paclitaxel,0.0,Low
+High_Mid,Paclitaxel + ABT 888 + Carboplatin,,Mid
+Low_Low,Paclitaxel + ABT 888 + Carboplatin,,Mid
+Low_High,Paclitaxel + ABT 888 + Carboplatin,,Mid
+High_Low,Paclitaxel + Ganetespib,0.5,Mid
+High_Low,Paclitaxel + Ganitumab,0.1428571428571428,Low
+Low_High,Paclitaxel + Ganetespib,0.1428571428571428,Low
+High_Low,Paclitaxel + Neratinib,,Low
+High_Mid,Paclitaxel + MK-2206,,High
+Low_Low,Paclitaxel + MK-2206,,Low
+High_Low,Paclitaxel + Ganitumab,0.1428571428571428,High
+High_Low,Paclitaxel + MK-2206,0.1428571428571428,High
+Low_High,Paclitaxel + Ganetespib,0.1428571428571428,Mid
+Low_Low,Paclitaxel + Ganitumab,0.1666666666666666,Low
+High_Low,Paclitaxel + Neratinib,,Mid
+Mid_Mid,Paclitaxel,0.0,Low
+Mid_Mid,Paclitaxel + ABT 888 + Carboplatin,,Mid
+Mid_Mid,Paclitaxel + Neratinib,,Mid
+Mid_Mid,Paclitaxel + Pembrolizumab,0.0,Mid
+Mid_Mid,Paclitaxel + AMG 386,0.2307692307692307,High
+High_Low,Paclitaxel,0.25,Mid
+Low_Low,Paclitaxel + AMG 386,,Mid
+Low_High,Paclitaxel + AMG 386,0.0,Mid
+Low_Low,Paclitaxel + Ganetespib,,Mid
+High_Low,Paclitaxel + Ganetespib,0.5,High
+High_Low,Paclitaxel + Neratinib,,Mid
+High_Mid,Paclitaxel + ABT 888 + Carboplatin,,Mid
+High_Mid,Paclitaxel + AMG 386,,Low
+Low_High,Paclitaxel,0.0,Low
+Low_Low,Paclitaxel + MK-2206,,Mid
+High_Low,Paclitaxel + Ganetespib,0.5,Low
+Low_High,Paclitaxel + Ganetespib,0.1428571428571428,Low
+Low_Low,Paclitaxel + Ganetespib,,Low
+Low_Low,Paclitaxel + Pembrolizumab,,Low
+Low_Low,Paclitaxel + Neratinib,,Mid
+Low_High,Paclitaxel + Pembrolizumab,0.0,Low
+Low_Low,Paclitaxel + AMG 386,,Mid
+Low_High,Paclitaxel,0.0,Mid
+Low_High,Paclitaxel + Ganetespib,0.1428571428571428,Mid
+Mid_Mid,Paclitaxel + Ganitumab,0.2,Low
+High_Low,Paclitaxel + Ganetespib,0.5,Mid
+Mid_Mid,Paclitaxel + AMG 386,0.2307692307692307,Low
+Mid_Mid,Paclitaxel + Neratinib,,Mid
+High_Low,Paclitaxel + Neratinib,,High
+High_Low,Paclitaxel + Neratinib,,Mid
+Low_Low,Paclitaxel + MK-2206,,Mid
+Low_High,Paclitaxel + Ganetespib,0.1428571428571428,Mid
+Low_High,Paclitaxel + Ganitumab,0.0,Low
+Low_Low,Paclitaxel + MK-2206,,Low
+High_Low,Paclitaxel + MK-2206,0.1428571428571428,High
+High_Mid,Paclitaxel + Ganitumab,0.3333333333333333,Mid
+Mid_Mid,Paclitaxel + AMG 386,0.2307692307692307,Low
+High_Mid,Paclitaxel,0.4285714285714285,Mid
+Low_Low,Paclitaxel + Pembrolizumab,,Low
+Low_Low,Paclitaxel + Ganetespib,,Low
+Mid_Mid,Paclitaxel + AMG 386,0.2307692307692307,High
+High_Low,Paclitaxel + Neratinib,,Mid
+High_Mid,Paclitaxel + Neratinib,,Low
+Mid_Mid,Paclitaxel,0.0,High
+Low_High,Paclitaxel + Ganetespib,0.1428571428571428,Mid
+Mid_Mid,Paclitaxel + ABT 888 + Carboplatin,,Mid
+High_Low,Paclitaxel + Ganitumab,0.1428571428571428,Mid
+Low_Low,Paclitaxel + Ganetespib,,Low
+High_Low,Paclitaxel + Neratinib,,High
+High_Mid,Paclitaxel + Ganitumab,0.3333333333333333,Low
+Mid_Mid,Paclitaxel + Ganitumab,0.2,Low
+Low_High,Paclitaxel + Pembrolizumab,0.0,Low
+Low_Low,Paclitaxel + AMG 386,,Mid
+Mid_Mid,Paclitaxel + ABT 888 + Carboplatin,,Low
+High_Mid,Paclitaxel + AMG 386,,Mid
+Low_Low,Paclitaxel + ABT 888 + Carboplatin,,Mid
+High_Mid,Paclitaxel,0.4285714285714285,High
+High_Low,Paclitaxel + Ganetespib,0.5,Low
+High_Low,Paclitaxel + Neratinib,,High
+High_Low,Paclitaxel + ABT 888 + Carboplatin,0.3333333333333333,Mid
+Mid_Mid,Paclitaxel,0.0,High
+Low_Low,Paclitaxel + Ganetespib,,Mid
+Low_Low,Paclitaxel + Pembrolizumab,,Mid
+High_Low,Paclitaxel + MK-2206,0.1428571428571428,High
+High_Mid,Paclitaxel + Neratinib,,Mid
+Low_Low,Paclitaxel + ABT 888 + Carboplatin,,Low
+High_Mid,Paclitaxel + Ganetespib,0.0,High
+Low_High,Paclitaxel + Ganetespib,0.1428571428571428,Low
+High_Mid,Paclitaxel + MK-2206,,Mid
+High_Mid,Paclitaxel + ABT 888 + Carboplatin,,Mid
+Low_Low,Paclitaxel + Ganitumab,0.1666666666666666,Low
+High_Low,Paclitaxel + Ganetespib,0.5,Mid
+High_Mid,Paclitaxel + Ganitumab,0.3333333333333333,High
+High_Low,Paclitaxel + Pembrolizumab,0.6666666666666666,Low
+Mid_Mid,Paclitaxel + AMG 386,0.2307692307692307,Low
+Mid_Mid,Paclitaxel + Ganitumab,0.2,High
+Low_Low,Paclitaxel + ABT 888 + Carboplatin,,Mid
+High_Mid,Paclitaxel,0.4285714285714285,High
+High_Mid,Paclitaxel,0.4285714285714285,Low
+Low_Low,Paclitaxel + Neratinib,,Low
+Mid_Mid,Paclitaxel + ABT 888 + Carboplatin,,Mid
+Low_Low,Paclitaxel + Ganitumab,0.1666666666666666,Low
+Low_High,Paclitaxel + Neratinib,,Low
+High_Low,Paclitaxel + MK-2206,0.1428571428571428,High
+High_Low,Paclitaxel + Ganitumab,0.1428571428571428,High
+High_Mid,Paclitaxel + Pembrolizumab,0.6,Mid
+High_Mid,Paclitaxel + MK-2206,,Mid
+Mid_Mid,Paclitaxel + AMG 386,0.2307692307692307,Low
+Low_High,Paclitaxel + Ganitumab,0.0,Low
+High_Mid,Paclitaxel + MK-2206,,Low
+High_Mid,Paclitaxel + Neratinib,,Low
+High_Low,Paclitaxel + Pembrolizumab,0.6666666666666666,High
+Low_Low,Paclitaxel + Ganetespib,,Mid
+High_Mid,Paclitaxel,0.4285714285714285,Low
+High_Low,Paclitaxel + MK-2206,0.1428571428571428,Mid
+Mid_Mid,Paclitaxel + Ganetespib,0.0,High
+Low_Low,Paclitaxel + Ganitumab,0.1666666666666666,Low
+Low_Low,Paclitaxel + ABT 888 + Carboplatin,,Mid
+High_Mid,Paclitaxel + ABT 888 + Carboplatin,,Mid
+High_Low,Paclitaxel + AMG 386,0.5,Low
+High_Low,Paclitaxel + MK-2206,0.1428571428571428,Low
+High_Low,Paclitaxel + Ganitumab,0.1428571428571428,Mid
+Low_High,Paclitaxel + Neratinib,,Mid
+Low_High,Paclitaxel + Ganetespib,0.1428571428571428,Mid
+High_Mid,Paclitaxel + Neratinib,,Mid
+Mid_Mid,Paclitaxel + Ganetespib,0.0,Mid
+Mid_Mid,Paclitaxel + Ganetespib,0.0,Mid
+High_Mid,Paclitaxel + Ganitumab,0.3333333333333333,High
+Low_High,Paclitaxel + MK-2206,0.1428571428571428,Low
+High_Low,Paclitaxel,0.25,Mid
+Low_Low,Paclitaxel + Ganetespib,,Low
+Low_Low,Paclitaxel + MK-2206,,Low
+Mid_Mid,Paclitaxel + ABT 888 + Carboplatin,,High
+High_Low,Paclitaxel + AMG 386,0.5,Low
+Mid_Mid,Paclitaxel + ABT 888 + Carboplatin,,Low
+High_Low,Paclitaxel + MK-2206,0.1428571428571428,High
+High_Low,Paclitaxel + ABT 888 + Carboplatin,0.3333333333333333,Mid
+High_Low,Paclitaxel + MK-2206,0.1428571428571428,High
+High_Low,Paclitaxel + Ganitumab,0.1428571428571428,Low
+High_Low,Paclitaxel + ABT 888 + Carboplatin,0.3333333333333333,Low
+Low_Low,Paclitaxel + Neratinib,,Low
+High_Mid,Paclitaxel,0.4285714285714285,Mid
+Low_Low,Paclitaxel + MK-2206,,Mid
+Low_Low,Paclitaxel + Ganitumab,0.1666666666666666,Mid
+Mid_Mid,Paclitaxel + ABT 888 + Carboplatin,,Low
+High_Low,Paclitaxel + MK-2206,0.1428571428571428,Low
+Low_Low,Paclitaxel + Ganitumab,0.1666666666666666,Low
+High_Low,Paclitaxel,0.25,High
+Mid_Mid,Paclitaxel + Ganetespib,0.0,Low
+Mid_Mid,Paclitaxel + AMG 386,0.2307692307692307,Mid
+Low_High,Paclitaxel + ABT 888 + Carboplatin,,Low
+High_Low,Paclitaxel + MK-2206,0.1428571428571428,High
+Low_High,Paclitaxel,0.0,Mid
+Low_Low,Paclitaxel + Ganitumab,0.1666666666666666,Mid
+Low_High,Paclitaxel + ABT 888 + Carboplatin,,Mid
+High_Mid,Paclitaxel + AMG 386,,Mid
+Mid_Mid,Paclitaxel + AMG 386,0.2307692307692307,Low
+Low_High,Paclitaxel + ABT 888 + Carboplatin,,Mid
+High_Mid,Paclitaxel,0.4285714285714285,Mid
+High_Mid,Paclitaxel + MK-2206,,Mid
+Low_High,Paclitaxel,0.0,Mid
+High_Mid,Paclitaxel + AMG 386,,High
+Mid_Mid,Paclitaxel,0.0,Low
+Low_Low,Paclitaxel + AMG 386,,Mid
+Mid_Mid,Paclitaxel + Ganitumab,0.2,Low
+Low_High,Paclitaxel + Neratinib,,Low
+High_Low,Paclitaxel + Pembrolizumab,0.6666666666666666,Low
+Low_High,Paclitaxel + MK-2206,0.1428571428571428,Mid
+High_Mid,Paclitaxel + Neratinib,,Mid
+High_Low,Paclitaxel + ABT 888 + Carboplatin,0.3333333333333333,High
+Low_High,Paclitaxel + Ganitumab,0.0,Mid
+Low_Low,Paclitaxel + AMG 386,,Low
+Low_Low,Paclitaxel + Ganitumab,0.1666666666666666,Low
+Mid_Mid,Paclitaxel + Ganitumab,0.2,Low
+High_Low,Paclitaxel + Ganitumab,0.1428571428571428,Mid
+Mid_Mid,Paclitaxel + MK-2206,,Low
+Mid_Mid,Paclitaxel + Ganitumab,0.2,Low
+Mid_Mid,Paclitaxel,0.0,Low
+Low_High,Paclitaxel + Pembrolizumab,0.0,Low
+High_Low,Paclitaxel + AMG 386,0.5,High
+High_Low,Paclitaxel + ABT 888 + Carboplatin,0.3333333333333333,Low
+Mid_Mid,Paclitaxel + Ganetespib,0.0,Low
+Mid_Mid,Paclitaxel + Ganitumab,0.2,Low
+Low_High,Paclitaxel + Neratinib,,Low
+Low_High,Paclitaxel + Pembrolizumab,0.0,Mid
+Low_High,Paclitaxel + Pembrolizumab,0.0,Low
+Mid_Mid,Paclitaxel + AMG 386,0.2307692307692307,Low
+Low_High,Paclitaxel + Pembrolizumab,0.0,Low
+Low_Low,Paclitaxel + Ganetespib,,Low
+High_Low,Paclitaxel,0.25,Low
+Mid_Mid,Paclitaxel + MK-2206,,Low
+High_Low,Paclitaxel + Ganitumab,0.1428571428571428,Mid
+High_Mid,Paclitaxel + AMG 386,,High
+Low_Low,Paclitaxel + AMG 386,,Low
+Mid_Mid,Paclitaxel + Pembrolizumab,0.0,High
+High_Low,Paclitaxel + Ganetespib,0.5,Low
+High_Low,Paclitaxel + Ganitumab,0.1428571428571428,Mid
+Mid_Mid,Paclitaxel + Neratinib,,Mid
+Low_High,Paclitaxel + Ganitumab,0.0,Low
+High_Low,Paclitaxel,0.25,Low
+Low_Low,Paclitaxel + MK-2206,,Low
+High_Mid,Paclitaxel + MK-2206,,Low
+High_Low,Paclitaxel + Pembrolizumab,0.6666666666666666,Low
+Low_Low,Paclitaxel + Ganetespib,,Mid
+Mid_Mid,Paclitaxel + Ganetespib,0.0,High
+High_Mid,Paclitaxel + Pembrolizumab,0.6,High
+High_Low,Paclitaxel + MK-2206,0.1428571428571428,Low
+Low_High,Paclitaxel + MK-2206,0.1428571428571428,Mid
+Low_High,Paclitaxel + Neratinib,,Mid
+Low_Low,Paclitaxel + Ganetespib,,Low
+Mid_Mid,Paclitaxel + MK-2206,,Mid
+High_Mid,Paclitaxel,0.4285714285714285,Mid
+High_Mid,Paclitaxel + Pembrolizumab,0.6,Mid
+Low_Low,Paclitaxel + MK-2206,,Low
+High_Mid,Paclitaxel + Ganitumab,0.3333333333333333,Mid
+High_Low,Paclitaxel + MK-2206,0.1428571428571428,Mid
+Mid_Mid,Paclitaxel + Ganitumab,0.2,Low
+High_Mid,Paclitaxel + AMG 386,,Mid
+Mid_Mid,Paclitaxel + Ganetespib,0.0,Low
+Low_Low,Paclitaxel,0.1666666666666666,Mid
+Low_High,Paclitaxel + Pembrolizumab,0.0,Mid
+Low_High,Paclitaxel + MK-2206,0.1428571428571428,Low
+Low_Low,Paclitaxel + MK-2206,,Mid
+Mid_Mid,Paclitaxel + MK-2206,,High
+Low_High,Paclitaxel,0.0,Low
+Low_High,Paclitaxel + ABT 888 + Carboplatin,,Mid
+High_Mid,Paclitaxel + Neratinib,,High
+Low_High,Paclitaxel,0.0,Mid
+High_Mid,Paclitaxel + MK-2206,,High
+Low_Low,Paclitaxel + Ganitumab,0.1666666666666666,Low
+Mid_Mid,Paclitaxel + MK-2206,,Low
+Low_Low,Paclitaxel + AMG 386,,Low
+Low_High,Paclitaxel + Ganitumab,0.0,Low
+High_Low,Paclitaxel,0.25,Mid
+Mid_Mid,Paclitaxel + MK-2206,,Low
+Low_High,Paclitaxel + Pembrolizumab,0.0,Low
+Low_High,Paclitaxel + Pembrolizumab,0.0,Mid
+Mid_Mid,Paclitaxel + Neratinib,,Low
+Low_Low,Paclitaxel,0.1666666666666666,Mid
+Low_High,Paclitaxel + Ganetespib,0.1428571428571428,Mid
+High_Low,Paclitaxel,0.25,Mid
+Low_High,Paclitaxel + Pembrolizumab,0.0,Low
+High_Mid,Paclitaxel + MK-2206,,Mid
+Low_Low,Paclitaxel + ABT 888 + Carboplatin,,Mid
+Low_Low,Paclitaxel + Pembrolizumab,,Low
+Low_Low,Paclitaxel + Neratinib,,Mid
+Low_Low,Paclitaxel + Neratinib,,Low
+High_Mid,Paclitaxel + Ganetespib,0.0,High
+Low_High,Paclitaxel + Pembrolizumab,0.0,Mid
+High_Mid,Paclitaxel + Ganetespib,0.0,Mid
+Low_High,Paclitaxel + Ganitumab,0.0,Mid
+Mid_Mid,Paclitaxel + Neratinib,,Mid
+Mid_Mid,Paclitaxel + MK-2206,,Mid
+Mid_Mid,Paclitaxel + Ganitumab,0.2,Low
+Mid_Mid,Paclitaxel,0.0,Low
+High_Mid,Paclitaxel + ABT 888 + Carboplatin,,High
+High_Mid,Paclitaxel + Neratinib,,Mid
+Low_Low,Paclitaxel + Neratinib,,Mid
+High_Low,Paclitaxel + Ganetespib,0.5,Mid
+High_Low,Paclitaxel + MK-2206,0.1428571428571428,Low
+High_Low,Paclitaxel + MK-2206,0.1428571428571428,High
+High_Low,Paclitaxel + MK-2206,0.1428571428571428,Low
+Mid_Mid,Paclitaxel + MK-2206,,Low
+High_Low,Paclitaxel,0.25,High
+Low_High,Paclitaxel + Neratinib,,Mid
+High_Low,Paclitaxel + Ganitumab,0.1428571428571428,Mid
+High_Mid,Paclitaxel,0.4285714285714285,Low
+High_Low,Paclitaxel + ABT 888 + Carboplatin,0.3333333333333333,Mid
+High_Low,Paclitaxel + AMG 386,0.5,High
+Mid_Mid,Paclitaxel + Pembrolizumab,0.0,Low
+Mid_Mid,Paclitaxel + ABT 888 + Carboplatin,,Low
+Low_High,Paclitaxel + ABT 888 + Carboplatin,,Mid
+Low_High,Paclitaxel + MK-2206,0.1428571428571428,Low
+High_Mid,Paclitaxel + MK-2206,,Low
+High_Low,Paclitaxel,0.25,High
+Low_High,Paclitaxel + MK-2206,0.1428571428571428,Low
+Mid_Mid,Paclitaxel + Ganitumab,0.2,Mid
+High_Low,Paclitaxel + Ganetespib,0.5,Mid
+High_Mid,Paclitaxel + MK-2206,,High
+Low_Low,Paclitaxel + Neratinib,,Mid
+High_Low,Paclitaxel + Neratinib,,Low
+Low_High,Paclitaxel + ABT 888 + Carboplatin,,Mid
+Low_Low,Paclitaxel,0.1666666666666666,Low
+Low_High,Paclitaxel + AMG 386,0.0,Low
+Low_High,Paclitaxel + Pembrolizumab,0.0,Mid
+High_Mid,Paclitaxel,0.4285714285714285,Mid
+Low_High,Paclitaxel + Pembrolizumab,0.0,Low
+Low_Low,Paclitaxel + Pembrolizumab,,Mid
+Mid_Mid,Paclitaxel + AMG 386,0.2307692307692307,High
+Mid_Mid,Paclitaxel + Ganetespib,0.0,High
+High_Mid,Paclitaxel + Neratinib,,Mid
+Low_Low,Paclitaxel + Neratinib,,Low
+Low_High,Paclitaxel + Neratinib,,Low
+Low_Low,Paclitaxel + Neratinib,,Low
+Low_Low,Paclitaxel + ABT 888 + Carboplatin,,Mid
+High_Mid,Paclitaxel + Pembrolizumab,0.6,Mid
+Low_High,Paclitaxel + Neratinib,,Mid
+Low_High,Paclitaxel + Neratinib,,Mid
+Low_Low,Paclitaxel + MK-2206,,Low
+Mid_Mid,Paclitaxel + Pembrolizumab,0.0,Mid
+High_Low,Paclitaxel + Pembrolizumab,0.6666666666666666,High
+Low_Low,Paclitaxel + ABT 888 + Carboplatin,,Mid
+High_Mid,Paclitaxel + AMG 386,,High
+Low_Low,Paclitaxel + Ganetespib,,Low
+Mid_Mid,Paclitaxel + ABT 888 + Carboplatin,,Mid
+High_Mid,Paclitaxel + Ganetespib,0.0,Mid
+High_Low,Paclitaxel + AMG 386,0.5,High
+Low_High,Paclitaxel + Ganetespib,0.1428571428571428,Mid
+High_Mid,Paclitaxel + Neratinib,,Low
+Low_High,Paclitaxel + MK-2206,0.1428571428571428,Mid
+High_Low,Paclitaxel + AMG 386,0.5,Low
+High_Low,Paclitaxel + Neratinib,,Mid
+High_Low,Paclitaxel + Pembrolizumab,0.6666666666666666,Low
+Low_High,Paclitaxel + MK-2206,0.1428571428571428,Mid
+Mid_Mid,Paclitaxel + Ganitumab,0.2,Low
+Low_Low,Paclitaxel + ABT 888 + Carboplatin,,Mid
+Low_Low,Paclitaxel + AMG 386,,Mid
+Mid_Mid,Paclitaxel,0.0,Low
+Mid_Mid,Paclitaxel + Ganetespib,0.0,Low
+Mid_Mid,Paclitaxel + MK-2206,,Low
+High_Low,Paclitaxel + Pembrolizumab,0.6666666666666666,High
+Mid_Mid,Paclitaxel + Ganetespib,0.0,Mid
+Low_Low,Paclitaxel + Pembrolizumab,,Mid
+High_Low,Paclitaxel + AMG 386,0.5,Mid
+Mid_Mid,Paclitaxel + MK-2206,,Low
+High_Mid,Paclitaxel + MK-2206,,Mid
+Low_High,Paclitaxel + Ganitumab,0.0,Mid
+Mid_Mid,Paclitaxel + Ganitumab,0.2,Low
+Low_High,Paclitaxel + Neratinib,,Mid
+Low_High,Paclitaxel + Pembrolizumab,0.0,Mid
+Mid_Mid,Paclitaxel + Pembrolizumab,0.0,Mid
+Low_Low,Paclitaxel + Neratinib,,Low
+High_Mid,Paclitaxel + Pembrolizumab,0.6,Low
+Low_High,Paclitaxel + Ganetespib,0.1428571428571428,Low
+Low_High,Paclitaxel + Ganitumab,0.0,Low
+High_Low,Paclitaxel + AMG 386,0.5,Mid
+High_Low,Paclitaxel,0.25,Mid
+High_Low,Paclitaxel,0.25,Mid
+Mid_Mid,Paclitaxel,0.0,Low
+Low_High,Paclitaxel + AMG 386,0.0,Mid
+High_Mid,Paclitaxel + ABT 888 + Carboplatin,,Low
+Mid_Mid,Paclitaxel + Ganetespib,0.0,Low
+High_Mid,Paclitaxel + ABT 888 + Carboplatin,,High
+Low_Low,Paclitaxel,0.1666666666666666,Mid
+High_Low,Paclitaxel + Pembrolizumab,0.6666666666666666,Low
+Low_High,Paclitaxel + Neratinib,,Mid
+High_Low,Paclitaxel + Pembrolizumab,0.6666666666666666,Mid
+High_Low,Paclitaxel + AMG 386,0.5,Mid
+Low_High,Paclitaxel + AMG 386,0.0,Low
+Mid_Mid,Paclitaxel + Pembrolizumab,0.0,Low
+High_Low,Paclitaxel + Pembrolizumab,0.6666666666666666,Mid
+Mid_Mid,Paclitaxel + Pembrolizumab,0.0,Low
+Low_Low,Paclitaxel + Pembrolizumab,,Low
+Mid_Mid,Paclitaxel + ABT 888 + Carboplatin,,High
+Mid_Mid,Paclitaxel + Pembrolizumab,0.0,High
+Low_High,Paclitaxel + AMG 386,0.0,Mid
+High_Low,Paclitaxel + MK-2206,0.1428571428571428,Mid
+Low_High,Paclitaxel + Ganetespib,0.1428571428571428,Low
+Mid_Mid,Paclitaxel + ABT 888 + Carboplatin,,Mid
+Mid_Mid,Paclitaxel + Pembrolizumab,0.0,Low
+High_Low,Paclitaxel + Ganetespib,0.5,High
+High_Low,Paclitaxel + Ganitumab,0.1428571428571428,Mid
+Low_Low,Paclitaxel + AMG 386,,Mid
+Mid_Mid,Paclitaxel + Pembrolizumab,0.0,Low
+Mid_Mid,Paclitaxel + MK-2206,,Low
+Low_Low,Paclitaxel + Ganitumab,0.1666666666666666,Low
+Low_High,Paclitaxel + ABT 888 + Carboplatin,,Mid
+High_Mid,Paclitaxel + Ganitumab,0.3333333333333333,High
+Low_Low,Paclitaxel + MK-2206,,Mid
+High_Low,Paclitaxel + Neratinib,,High
+High_Low,Paclitaxel + AMG 386,0.5,Low
+High_Mid,Paclitaxel + Ganitumab,0.3333333333333333,Mid
+High_Low,Paclitaxel + ABT 888 + Carboplatin,0.3333333333333333,Mid
+Mid_Mid,Paclitaxel + Ganetespib,0.0,High
+Low_Low,Paclitaxel,0.1666666666666666,Low
+Low_Low,Paclitaxel + MK-2206,,Low
+High_Low,Paclitaxel,0.25,Mid
+High_Mid,Paclitaxel + ABT 888 + Carboplatin,,High
+Low_Low,Paclitaxel + Ganitumab,0.1666666666666666,Low
+Low_High,Paclitaxel + MK-2206,0.1428571428571428,Mid
+High_Low,Paclitaxel + Pembrolizumab,0.6666666666666666,High
+Low_High,Paclitaxel + Neratinib,,Mid
+Low_Low,Paclitaxel + ABT 888 + Carboplatin,,Mid
+Mid_Mid,Paclitaxel + ABT 888 + Carboplatin,,Low
+Mid_Mid,Paclitaxel,0.0,Low
+Low_High,Paclitaxel + Neratinib,,Low
+Low_Low,Paclitaxel + MK-2206,,Mid
+High_Low,Paclitaxel,0.25,High
+Mid_Mid,Paclitaxel,0.0,Low
+Mid_Mid,Paclitaxel + ABT 888 + Carboplatin,,High
+High_Low,Paclitaxel + Neratinib,,High
+Low_High,Paclitaxel + MK-2206,0.1428571428571428,Mid
+Low_Low,Paclitaxel + Pembrolizumab,,Low
+High_Mid,Paclitaxel + MK-2206,,High
+Low_High,Paclitaxel,0.0,Low
+Low_High,Paclitaxel + Ganetespib,0.1428571428571428,Mid
+Low_High,Paclitaxel,0.0,Mid
+Mid_Mid,Paclitaxel,0.0,Low
+High_Low,Paclitaxel + Ganitumab,0.1428571428571428,Mid
+Mid_Mid,Paclitaxel + Neratinib,,Low
+Low_High,Paclitaxel + Ganitumab,0.0,Low
+Mid_Mid,Paclitaxel + MK-2206,,High
+Low_Low,Paclitaxel + Ganetespib,,Low
+High_Low,Paclitaxel + AMG 386,0.5,Mid
+Low_Low,Paclitaxel + ABT 888 + Carboplatin,,Mid
+Mid_Mid,Paclitaxel + Neratinib,,Mid
+Low_Low,Paclitaxel,0.1666666666666666,Mid
+Low_High,Paclitaxel + Neratinib,,Mid
+High_Low,Paclitaxel + ABT 888 + Carboplatin,0.3333333333333333,High
+High_Low,Paclitaxel + Ganitumab,0.1428571428571428,High
+High_Low,Paclitaxel + Ganitumab,0.1428571428571428,Mid
+Low_High,Paclitaxel + MK-2206,0.1428571428571428,Low
+Low_Low,Paclitaxel + ABT 888 + Carboplatin,,Mid
